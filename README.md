@@ -74,7 +74,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Fenderov
+* who is trying to break: Fenderov Pyzh
 ### Вахитов
 * task ok
 * not verified 
@@ -94,7 +94,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Sazhin
+* who is trying to break:
 ### Пластинина
 * task ok
 * not verified 
@@ -104,7 +104,7 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break: Fenderov Pyzh
+* who is trying to break: Fenderov
 ### Староверов 
 * task ok
 * not verified 
@@ -114,4 +114,4 @@
 * task ok
 * not verified 
 * not broken
-* who is trying to break:
+* who is trying to break: Mikhailov
